@@ -140,4 +140,12 @@ This software-code license statement does not assign a separate Creative Commons
 - Cantador, I., Brusilovsky, P., and Kuflik, T. (2011). *2nd Workshop on Information Heterogeneity and Fusion in Recommender Systems (HetRec 2011).* Proceedings of ACM RecSys. See the dataset README for acknowledgements and citation details; acknowledge [Last.fm](https://www.last.fm/).
 - Rampisela and colleagues (2025). *Joint Evaluation of Fairness and Relevance in Recommender Systems with Pareto Frontier.* [DOI: 10.1145/3696410.3714589](https://doi.org/10.1145/3696410.3714589).
 
-For this project's archived notebook and results, cite the **version-specific Zenodo DOI** once the corresponding record is published. Add that actual DOI to this README and the GitHub release; no DOI has been assigned in this document.
+## Archived notebook and results
+
+The final executed notebook, complete results ZIP, finalized proposal, and supporting documentation are archived on Zenodo.
+
+- **Version:** 1.0.0
+- **DOI:** [10.5281/zenodo.24093518](https://doi.org/10.5281/zenodo.24093518)
+- **GitHub repository:** [phantom-troupe-project9](https://github.com/Cosmicrider1166/phantom-troupe-project9)
+
+Please cite the version-specific Zenodo DOI above when referring to the archived code and results.
