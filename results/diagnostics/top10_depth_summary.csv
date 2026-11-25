@@ -1,0 +1,9 @@
+protocol,window,depth,reference_depth,comparison_cells,user_list_pairs,unchanged_top10,order_only_changed,items_changed,any_change,any_change_rate
+100k,test,50,100,36,1296,1296,0,0,0,0.0
+100k,test,200,100,36,1296,1296,0,0,0,0.0
+100k,val,50,100,36,2772,2772,0,0,0,0.0
+100k,val,200,100,36,2772,2772,0,0,0,0.0
+1m,test,50,100,36,12636,12636,0,0,0,0.0
+1m,test,200,100,36,12636,12636,0,0,0,0.0
+1m,val,50,100,36,6552,6552,0,0,0,0.0
+1m,val,200,100,36,6552,6552,0,0,0,0.0

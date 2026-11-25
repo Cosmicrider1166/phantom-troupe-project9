@@ -1,0 +1,139 @@
+protocol,window,attribute,group,observed_users,eligible_users,otherwise_eligible_reserved_for_tuning,inclusion_rate,below_reporting_threshold
+100k,val,gender,F,66,14,6,0.21212121212121213,True
+100k,val,gender,M,181,63,20,0.34806629834254144,False
+100k,val,age,1,10,3,0,0.3,True
+100k,val,age,18,63,19,4,0.30158730158730157,True
+100k,val,age,25,83,29,7,0.3493975903614458,True
+100k,val,age,35,39,12,8,0.3076923076923077,True
+100k,val,age,45,24,9,3,0.375,True
+100k,val,age,50,18,2,3,0.1111111111111111,True
+100k,val,age,56,10,3,1,0.3,True
+100k,val,age_by_gender,"(1, 'F')",4,0,0,0.0,True
+100k,val,age_by_gender,"(1, 'M')",6,3,0,0.5,True
+100k,val,age_by_gender,"(18, 'F')",14,3,0,0.21428571428571427,True
+100k,val,age_by_gender,"(18, 'M')",49,16,4,0.32653061224489793,True
+100k,val,age_by_gender,"(25, 'F')",21,6,1,0.2857142857142857,True
+100k,val,age_by_gender,"(25, 'M')",62,23,6,0.3709677419354839,True
+100k,val,age_by_gender,"(35, 'F')",13,2,3,0.15384615384615385,True
+100k,val,age_by_gender,"(35, 'M')",26,10,5,0.38461538461538464,True
+100k,val,age_by_gender,"(45, 'F')",5,1,0,0.2,True
+100k,val,age_by_gender,"(45, 'M')",19,8,3,0.42105263157894735,True
+100k,val,age_by_gender,"(50, 'F')",6,1,1,0.16666666666666666,True
+100k,val,age_by_gender,"(50, 'M')",12,1,2,0.08333333333333333,True
+100k,val,age_by_gender,"(56, 'F')",3,1,1,0.3333333333333333,True
+100k,val,age_by_gender,"(56, 'M')",7,2,0,0.2857142857142857,True
+100k,test,gender,F,59,7,3,0.11864406779661017,True
+100k,test,gender,M,167,29,12,0.17365269461077845,True
+100k,test,age,1,3,1,0,0.3333333333333333,True
+100k,test,age,18,33,6,3,0.18181818181818182,True
+100k,test,age,25,68,14,5,0.20588235294117646,True
+100k,test,age,35,49,9,4,0.1836734693877551,True
+100k,test,age,45,27,3,1,0.1111111111111111,True
+100k,test,age,50,28,3,2,0.10714285714285714,True
+100k,test,age,56,18,0,0,0.0,True
+100k,test,age_by_gender,"(1, 'F')",1,0,0,0.0,True
+100k,test,age_by_gender,"(1, 'M')",2,1,0,0.5,True
+100k,test,age_by_gender,"(18, 'F')",7,3,0,0.42857142857142855,True
+100k,test,age_by_gender,"(18, 'M')",26,3,3,0.11538461538461539,True
+100k,test,age_by_gender,"(25, 'F')",14,2,0,0.14285714285714285,True
+100k,test,age_by_gender,"(25, 'M')",54,12,5,0.2222222222222222,True
+100k,test,age_by_gender,"(35, 'F')",15,0,2,0.0,True
+100k,test,age_by_gender,"(35, 'M')",34,9,2,0.2647058823529412,True
+100k,test,age_by_gender,"(45, 'F')",4,0,0,0.0,True
+100k,test,age_by_gender,"(45, 'M')",23,3,1,0.13043478260869565,True
+100k,test,age_by_gender,"(50, 'F')",15,2,1,0.13333333333333333,True
+100k,test,age_by_gender,"(50, 'M')",13,1,1,0.07692307692307693,True
+100k,test,age_by_gender,"(56, 'F')",3,0,0,0.0,True
+100k,test,age_by_gender,"(56, 'M')",15,0,0,0.0,True
+1m,val,gender,F,164,38,15,0.23170731707317074,True
+1m,val,gender,M,499,144,37,0.28857715430861725,False
+1m,val,age,1,33,10,3,0.30303030303030304,True
+1m,val,age,18,124,39,8,0.31451612903225806,True
+1m,val,age,25,236,72,17,0.3050847457627119,False
+1m,val,age,35,130,34,12,0.26153846153846155,True
+1m,val,age,45,43,8,6,0.18604651162790697,True
+1m,val,age,50,65,12,5,0.18461538461538463,True
+1m,val,age,56,32,7,1,0.21875,True
+1m,val,age_by_gender,"(1, 'F')",8,1,1,0.125,True
+1m,val,age_by_gender,"(1, 'M')",25,9,2,0.36,True
+1m,val,age_by_gender,"(18, 'F')",28,10,1,0.35714285714285715,True
+1m,val,age_by_gender,"(18, 'M')",96,29,7,0.3020833333333333,True
+1m,val,age_by_gender,"(25, 'F')",57,14,6,0.24561403508771928,True
+1m,val,age_by_gender,"(25, 'M')",179,58,11,0.3240223463687151,False
+1m,val,age_by_gender,"(35, 'F')",36,8,3,0.2222222222222222,True
+1m,val,age_by_gender,"(35, 'M')",94,26,9,0.2765957446808511,True
+1m,val,age_by_gender,"(45, 'F')",15,1,3,0.06666666666666667,True
+1m,val,age_by_gender,"(45, 'M')",28,7,3,0.25,True
+1m,val,age_by_gender,"(50, 'F')",15,3,1,0.2,True
+1m,val,age_by_gender,"(50, 'M')",50,9,4,0.18,True
+1m,val,age_by_gender,"(56, 'F')",5,1,0,0.2,True
+1m,val,age_by_gender,"(56, 'M')",27,6,1,0.2222222222222222,True
+1m,test,gender,F,194,86,20,0.44329896907216493,False
+1m,test,gender,M,558,265,69,0.47491039426523296,False
+1m,test,age,1,30,16,4,0.5333333333333333,True
+1m,test,age,18,155,72,15,0.4645161290322581,False
+1m,test,age,25,283,143,34,0.5053003533568905,False
+1m,test,age,35,140,65,19,0.4642857142857143,False
+1m,test,age,45,62,19,7,0.3064516129032258,True
+1m,test,age,50,52,18,8,0.34615384615384615,True
+1m,test,age,56,30,18,2,0.6,True
+1m,test,age_by_gender,"(1, 'F')",12,8,0,0.6666666666666666,True
+1m,test,age_by_gender,"(1, 'M')",18,8,4,0.4444444444444444,True
+1m,test,age_by_gender,"(18, 'F')",39,20,4,0.5128205128205128,True
+1m,test,age_by_gender,"(18, 'M')",116,52,11,0.4482758620689655,False
+1m,test,age_by_gender,"(25, 'F')",63,33,8,0.5238095238095238,True
+1m,test,age_by_gender,"(25, 'M')",220,110,26,0.5,False
+1m,test,age_by_gender,"(35, 'F')",39,16,3,0.41025641025641024,True
+1m,test,age_by_gender,"(35, 'M')",101,49,16,0.48514851485148514,True
+1m,test,age_by_gender,"(45, 'F')",19,2,2,0.10526315789473684,True
+1m,test,age_by_gender,"(45, 'M')",43,17,5,0.3953488372093023,True
+1m,test,age_by_gender,"(50, 'F')",18,6,3,0.3333333333333333,True
+1m,test,age_by_gender,"(50, 'M')",34,12,5,0.35294117647058826,True
+1m,test,age_by_gender,"(56, 'F')",4,1,0,0.25,True
+1m,test,age_by_gender,"(56, 'M')",26,17,2,0.6538461538461539,True
+1m_userchron,val,gender,F,1685,1317,331,0.7816023738872404,False
+1m_userchron,val,gender,M,4274,3329,844,0.7788956481048198,False
+1m_userchron,val,age,1,220,161,52,0.7318181818181818,False
+1m_userchron,val,age,18,1095,841,228,0.7680365296803653,False
+1m_userchron,val,age,25,2070,1625,406,0.785024154589372,False
+1m_userchron,val,age,35,1172,905,242,0.7721843003412969,False
+1m_userchron,val,age,45,540,424,98,0.7851851851851852,False
+1m_userchron,val,age,50,492,392,90,0.7967479674796748,False
+1m_userchron,val,age,56,370,298,59,0.8054054054054054,False
+1m_userchron,val,age_by_gender,"(1, 'F')",78,57,18,0.7307692307692307,False
+1m_userchron,val,age_by_gender,"(1, 'M')",142,104,34,0.7323943661971831,False
+1m_userchron,val,age_by_gender,"(18, 'F')",297,230,61,0.7744107744107744,False
+1m_userchron,val,age_by_gender,"(18, 'M')",798,611,167,0.7656641604010025,False
+1m_userchron,val,age_by_gender,"(25, 'F')",549,436,102,0.7941712204007286,False
+1m_userchron,val,age_by_gender,"(25, 'M')",1521,1189,304,0.7817225509533202,False
+1m_userchron,val,age_by_gender,"(35, 'F')",332,255,69,0.7680722891566265,False
+1m_userchron,val,age_by_gender,"(35, 'M')",840,650,173,0.7738095238095238,False
+1m_userchron,val,age_by_gender,"(45, 'F')",186,148,32,0.7956989247311828,False
+1m_userchron,val,age_by_gender,"(45, 'M')",354,276,66,0.7796610169491526,False
+1m_userchron,val,age_by_gender,"(50, 'F')",143,108,33,0.7552447552447552,False
+1m_userchron,val,age_by_gender,"(50, 'M')",349,284,57,0.8137535816618912,False
+1m_userchron,val,age_by_gender,"(56, 'F')",100,83,16,0.83,False
+1m_userchron,val,age_by_gender,"(56, 'M')",270,215,43,0.7962962962962963,False
+1m_userchron,test,gender,F,1671,1294,317,0.7743865948533812,False
+1m_userchron,test,gender,M,4247,3288,827,0.7741935483870968,False
+1m_userchron,test,age,1,218,162,50,0.7431192660550459,False
+1m_userchron,test,age,18,1087,821,222,0.7552897884084636,False
+1m_userchron,test,age,25,2059,1607,398,0.7804759592034969,False
+1m_userchron,test,age,35,1174,898,244,0.7649063032367973,False
+1m_userchron,test,age,45,534,421,90,0.7883895131086143,False
+1m_userchron,test,age,50,486,382,82,0.7860082304526749,False
+1m_userchron,test,age,56,360,291,58,0.8083333333333333,False
+1m_userchron,test,age_by_gender,"(1, 'F')",76,57,15,0.75,False
+1m_userchron,test,age_by_gender,"(1, 'M')",142,105,35,0.7394366197183099,False
+1m_userchron,test,age_by_gender,"(18, 'F')",296,223,60,0.7533783783783784,False
+1m_userchron,test,age_by_gender,"(18, 'M')",791,598,162,0.7560050568900126,False
+1m_userchron,test,age_by_gender,"(25, 'F')",543,428,100,0.7882136279926335,False
+1m_userchron,test,age_by_gender,"(25, 'M')",1516,1179,298,0.7777044854881267,False
+1m_userchron,test,age_by_gender,"(35, 'F')",334,254,70,0.7604790419161677,False
+1m_userchron,test,age_by_gender,"(35, 'M')",840,644,174,0.7666666666666667,False
+1m_userchron,test,age_by_gender,"(45, 'F')",182,143,27,0.7857142857142857,False
+1m_userchron,test,age_by_gender,"(45, 'M')",352,278,63,0.7897727272727273,False
+1m_userchron,test,age_by_gender,"(50, 'F')",143,108,31,0.7552447552447552,False
+1m_userchron,test,age_by_gender,"(50, 'M')",343,274,51,0.7988338192419825,False
+1m_userchron,test,age_by_gender,"(56, 'F')",97,81,14,0.8350515463917526,False
+1m_userchron,test,age_by_gender,"(56, 'M')",263,210,44,0.7984790874524715,False

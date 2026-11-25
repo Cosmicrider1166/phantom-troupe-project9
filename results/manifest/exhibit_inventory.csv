@@ -1,0 +1,21 @@
+id,format,title,path
+RQ1_T1_relevance_and_winners,CSV,"Validation relevance, eligibility and ties by configuration",tables/RQ1_T1_relevance_and_winners.csv
+RQ1_F1_winner_agreement,PDF,Cross-objective winner agreement with unassessable comparisons marked,figures/RQ1_F1_winner_agreement.pdf
+RQ1_T2_rank_and_winner_support,CSV,"Candidate winner support, complete draws and pairwise ordering retention",tables/RQ1_T2_rank_and_winner_support.csv
+RQ1_F2_winner_support,PDF,"Three highest winner supports per objective, first fitting seed",figures/RQ1_F2_winner_support.pdf
+RQ2_T1_contrasts_and_intervals,CSV,All planned base versus reranker contrasts and simultaneous intervals,tables/RQ2_T1_contrasts_and_intervals.csv
+RQ2_T2_evidence_and_reversals,CSV,Validation evidence and later reversals with explicit denominators,tables/RQ2_T2_evidence_and_reversals.csv
+RQ2_F1_contrast_evidence,PDF,"Evidence classification across objectives, including unavailable contrasts",figures/RQ2_F1_contrast_evidence.pdf
+RQ2_F2_decisions_by_cutoff,PDF,"Selection, threshold abstention and estimability failures by cutoff",figures/RQ2_F2_decisions_by_cutoff.pdf
+RQ3_T1_selector_scorecard,CSV,"Selector scorecard with audit, overlap and later quality denominators",tables/RQ3_T1_selector_scorecard.csv
+RQ3_T2_paired_control_differences,CSV,Within-audit bootstrap minus comparator differences and interquartile ranges,tables/RQ3_T2_paired_control_differences.csv
+RQ3_F1_stability_and_selectivity,PDF,"Stability against shortlist size, one point per fitting seed",figures/RQ3_F1_stability_and_selectivity.pdf
+RQ3_F2_later_frontier_tradeoff,PDF,Later-frontier coverage and dominated selections in the frozen validation pool,figures/RQ3_F2_later_frontier_tradeoff.pdf
+RQ4_T1_demographic_coverage,CSV,"Observed and eligible demographic groups by period, including intersections",tables/RQ4_T1_demographic_coverage.csv
+RQ4_T2_paired_depth_sensitivity,CSV,RQ1–RQ3 changes against the reference retrieval depth,tables/RQ4_T2_paired_depth_sensitivity.csv
+RQ4_F1_group_estimability,PDF,"Group completeness by demographic definition, with smallest cell counts",figures/RQ4_F1_group_estimability.pdf
+RQ4_F2_candidate_recall,PDF,"Candidate recall across depths, with ranges over fitting seeds",figures/RQ4_F2_candidate_recall.pdf
+RQ5_T1_protocol_scope,CSV,"Cohort sizes, chronology and admissible fairness objectives",tables/RQ5_T1_protocol_scope.csv
+RQ5_T2_cross_protocol_selectors,CSV,"Selector outcomes by protocol and objective set, with a common calibration/exposure comparison",tables/RQ5_T2_cross_protocol_selectors.csv
+RQ5_F1_shared_objective_agreement,PDF,"Calibration versus exposure winner agreement, with one point per fitting seed",figures/RQ5_F1_shared_objective_agreement.pdf
+RQ5_F2_later_selection_transfer,PDF,Retrospective set overlap and frontier coverage on shared objectives,figures/RQ5_F2_later_selection_transfer.pdf

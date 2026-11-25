@@ -1,0 +1,19 @@
+protocol,seed,depth,objective,validation_evidence,contrasts,apparent_improvements,sign_assessable,estimated_reversals,supported_reversals
+100k,20261101,100,Group gap,Inconclusive,9,5,0,0,0
+100k,20261101,100,Calibration JSD,Inconclusive,9,9,9,0,0
+100k,20261101,100,Exposure Gini,Inconclusive,9,7,9,2,0
+100k,20261102,100,Group gap,Inconclusive,9,4,0,0,0
+100k,20261102,100,Calibration JSD,Inconclusive,9,9,9,0,0
+100k,20261102,100,Exposure Gini,Inconclusive,9,7,9,2,0
+100k,20261103,100,Group gap,Inconclusive,9,4,0,0,0
+100k,20261103,100,Calibration JSD,Inconclusive,9,9,9,0,0
+100k,20261103,100,Exposure Gini,Inconclusive,9,7,9,2,0
+1m,20261101,100,Group gap,Inconclusive,9,1,9,5,0
+1m,20261101,100,Calibration JSD,Inconclusive,9,9,9,0,0
+1m,20261101,100,Exposure Gini,Inconclusive,9,8,9,1,0
+1m,20261102,100,Group gap,Inconclusive,9,1,9,7,0
+1m,20261102,100,Calibration JSD,Inconclusive,9,9,9,0,0
+1m,20261102,100,Exposure Gini,Inconclusive,9,8,9,1,0
+1m,20261103,100,Group gap,Inconclusive,9,1,9,7,0
+1m,20261103,100,Calibration JSD,Inconclusive,9,9,9,0,0
+1m,20261103,100,Exposure Gini,Inconclusive,9,8,9,1,0

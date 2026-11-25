@@ -1,0 +1,6 @@
+check,status
+JSD opposite profiles,passed
+JSD identical,passed
+Gini equal,passed
+Gini concentrated,passed
+NDCG perfect,passed

@@ -1,0 +1,27 @@
+{
+  "rank": 32,
+  "penalty": 0.01,
+  "tuning_ndcg": 0.017577280417979332,
+  "grid": [
+    {
+      "rank": 16,
+      "penalty": 0.01,
+      "tuning_ndcg": 0.004486765526850367
+    },
+    {
+      "rank": 16,
+      "penalty": 0.1,
+      "tuning_ndcg": 0.0017467600499847633
+    },
+    {
+      "rank": 32,
+      "penalty": 0.01,
+      "tuning_ndcg": 0.017577280417979332
+    },
+    {
+      "rank": 32,
+      "penalty": 0.1,
+      "tuning_ndcg": 0.01479760244668518
+    }
+  ]
+}

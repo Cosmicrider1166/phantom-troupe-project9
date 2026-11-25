@@ -1,0 +1,253 @@
+protocol,seed,depth,scope,rule,validation_size,later_size,later_overlap,validation_empty,later_empty,validation_complete_draws,later_complete_draws,validation_bootstrap_status,later_bootstrap_status,size,test_frontier_estimable,test_frontier_recall,test_dominated,median_test_relevance_loss
+100k,20261101,50,Three objectives,Bootstrap Pareto,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+100k,20261101,50,Three objectives,Point Pareto,1,0,0.0,False,True,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261101,50,Three objectives,Single gap,1,0,0.0,False,True,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261101,50,Three objectives,Single calibration,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261101,50,Three objectives,Single exposure,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261101,50,Three objectives,Top relevance,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261101,50,Three objectives,Size-matched random,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+100k,20261101,50,Three objectives,Size-matched relevance,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+100k,20261101,100,Three objectives,Bootstrap Pareto,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+100k,20261101,100,Three objectives,Point Pareto,1,0,0.0,False,True,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261101,100,Three objectives,Single gap,1,0,0.0,False,True,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261101,100,Three objectives,Single calibration,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261101,100,Three objectives,Single exposure,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261101,100,Three objectives,Top relevance,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261101,100,Three objectives,Size-matched random,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+100k,20261101,100,Three objectives,Size-matched relevance,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+100k,20261101,100,Calibration + exposure,Bootstrap Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+100k,20261101,100,Calibration + exposure,Point Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+100k,20261101,100,Calibration + exposure,Single calibration,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+100k,20261101,100,Calibration + exposure,Single exposure,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+100k,20261101,100,Calibration + exposure,Top relevance,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+100k,20261101,100,Calibration + exposure,Size-matched random,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+100k,20261101,100,Calibration + exposure,Size-matched relevance,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+100k,20261101,200,Three objectives,Bootstrap Pareto,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+100k,20261101,200,Three objectives,Point Pareto,1,0,0.0,False,True,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261101,200,Three objectives,Single gap,1,0,0.0,False,True,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261101,200,Three objectives,Single calibration,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261101,200,Three objectives,Single exposure,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261101,200,Three objectives,Top relevance,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261101,200,Three objectives,Size-matched random,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+100k,20261101,200,Three objectives,Size-matched relevance,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+100k,20261102,50,Three objectives,Bootstrap Pareto,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+100k,20261102,50,Three objectives,Point Pareto,1,0,0.0,False,True,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261102,50,Three objectives,Single gap,1,0,0.0,False,True,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261102,50,Three objectives,Single calibration,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261102,50,Three objectives,Single exposure,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261102,50,Three objectives,Top relevance,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261102,50,Three objectives,Size-matched random,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+100k,20261102,50,Three objectives,Size-matched relevance,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+100k,20261102,100,Three objectives,Bootstrap Pareto,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+100k,20261102,100,Three objectives,Point Pareto,1,0,0.0,False,True,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261102,100,Three objectives,Single gap,1,0,0.0,False,True,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261102,100,Three objectives,Single calibration,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261102,100,Three objectives,Single exposure,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261102,100,Three objectives,Top relevance,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261102,100,Three objectives,Size-matched random,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+100k,20261102,100,Three objectives,Size-matched relevance,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+100k,20261102,100,Calibration + exposure,Bootstrap Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+100k,20261102,100,Calibration + exposure,Point Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+100k,20261102,100,Calibration + exposure,Single calibration,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+100k,20261102,100,Calibration + exposure,Single exposure,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+100k,20261102,100,Calibration + exposure,Top relevance,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+100k,20261102,100,Calibration + exposure,Size-matched random,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+100k,20261102,100,Calibration + exposure,Size-matched relevance,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+100k,20261102,200,Three objectives,Bootstrap Pareto,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+100k,20261102,200,Three objectives,Point Pareto,1,0,0.0,False,True,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261102,200,Three objectives,Single gap,1,0,0.0,False,True,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261102,200,Three objectives,Single calibration,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261102,200,Three objectives,Single exposure,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261102,200,Three objectives,Top relevance,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261102,200,Three objectives,Size-matched random,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+100k,20261102,200,Three objectives,Size-matched relevance,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+100k,20261103,50,Three objectives,Bootstrap Pareto,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+100k,20261103,50,Three objectives,Point Pareto,1,0,0.0,False,True,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261103,50,Three objectives,Single gap,1,0,0.0,False,True,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261103,50,Three objectives,Single calibration,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261103,50,Three objectives,Single exposure,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261103,50,Three objectives,Top relevance,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261103,50,Three objectives,Size-matched random,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+100k,20261103,50,Three objectives,Size-matched relevance,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+100k,20261103,100,Three objectives,Bootstrap Pareto,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+100k,20261103,100,Three objectives,Point Pareto,1,0,0.0,False,True,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261103,100,Three objectives,Single gap,1,0,0.0,False,True,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261103,100,Three objectives,Single calibration,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261103,100,Three objectives,Single exposure,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261103,100,Three objectives,Top relevance,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261103,100,Three objectives,Size-matched random,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+100k,20261103,100,Three objectives,Size-matched relevance,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+100k,20261103,100,Calibration + exposure,Bootstrap Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+100k,20261103,100,Calibration + exposure,Point Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+100k,20261103,100,Calibration + exposure,Single calibration,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+100k,20261103,100,Calibration + exposure,Single exposure,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+100k,20261103,100,Calibration + exposure,Top relevance,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+100k,20261103,100,Calibration + exposure,Size-matched random,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+100k,20261103,100,Calibration + exposure,Size-matched relevance,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+100k,20261103,200,Three objectives,Bootstrap Pareto,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+100k,20261103,200,Three objectives,Point Pareto,1,0,0.0,False,True,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261103,200,Three objectives,Single gap,1,0,0.0,False,True,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261103,200,Three objectives,Single calibration,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261103,200,Three objectives,Single exposure,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261103,200,Three objectives,Top relevance,1,1,1.0,False,False,796,0,Insufficient complete draws,Objective unavailable,1,False,,,0.0
+100k,20261103,200,Three objectives,Size-matched random,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+100k,20261103,200,Three objectives,Size-matched relevance,0,0,,True,True,796,0,Insufficient complete draws,Objective unavailable,0,False,,,
+1m,20261101,50,Three objectives,Bootstrap Pareto,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.0004152444324334037
+1m,20261101,50,Three objectives,Point Pareto,4,3,0.16666666666666666,False,False,999,1000,Selected,Selected,4,True,0.3333333333333333,0.75,0.001818254777041839
+1m,20261101,50,Three objectives,Single gap,1,1,0.0,False,False,999,1000,Selected,Selected,1,True,0.0,1.0,0.006448918458700992
+1m,20261101,50,Three objectives,Single calibration,1,1,1.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.0008304888648668074
+1m,20261101,50,Three objectives,Single exposure,1,1,1.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.0008304888648668074
+1m,20261101,50,Three objectives,Top relevance,1,1,0.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.11722258619933756
+1m,20261101,50,Three objectives,Size-matched random,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.06001430344427722
+1m,20261101,50,Three objectives,Size-matched relevance,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.05861129309966878
+1m,20261101,100,Three objectives,Bootstrap Pareto,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.0004152444324334037
+1m,20261101,100,Three objectives,Point Pareto,4,3,0.16666666666666666,False,False,999,1000,Selected,Selected,4,True,0.3333333333333333,0.75,0.001818254777041839
+1m,20261101,100,Three objectives,Single gap,1,1,0.0,False,False,999,1000,Selected,Selected,1,True,0.0,1.0,0.006448918458700992
+1m,20261101,100,Three objectives,Single calibration,1,1,1.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.0008304888648668074
+1m,20261101,100,Three objectives,Single exposure,1,1,1.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.0008304888648668074
+1m,20261101,100,Three objectives,Top relevance,1,1,0.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.11722258619933756
+1m,20261101,100,Three objectives,Size-matched random,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.06001430344427722
+1m,20261101,100,Three objectives,Size-matched relevance,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.05861129309966878
+1m,20261101,100,Calibration + exposure,Bootstrap Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0008304888648668074
+1m,20261101,100,Calibration + exposure,Point Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0008304888648668074
+1m,20261101,100,Calibration + exposure,Single calibration,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0008304888648668074
+1m,20261101,100,Calibration + exposure,Single exposure,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0008304888648668074
+1m,20261101,100,Calibration + exposure,Top relevance,1,1,0.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.11722258619933756
+1m,20261101,100,Calibration + exposure,Size-matched random,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.0028060206892168704
+1m,20261101,100,Calibration + exposure,Size-matched relevance,1,1,0.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.11722258619933756
+1m,20261101,200,Three objectives,Bootstrap Pareto,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.0004152444324334037
+1m,20261101,200,Three objectives,Point Pareto,4,3,0.16666666666666666,False,False,999,1000,Selected,Selected,4,True,0.3333333333333333,0.75,0.001818254777041839
+1m,20261101,200,Three objectives,Single gap,1,1,0.0,False,False,999,1000,Selected,Selected,1,True,0.0,1.0,0.006448918458700992
+1m,20261101,200,Three objectives,Single calibration,1,1,1.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.0008304888648668074
+1m,20261101,200,Three objectives,Single exposure,1,1,1.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.0008304888648668074
+1m,20261101,200,Three objectives,Top relevance,1,1,0.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.11722258619933756
+1m,20261101,200,Three objectives,Size-matched random,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.06001430344427722
+1m,20261101,200,Three objectives,Size-matched relevance,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.05861129309966878
+1m,20261102,50,Three objectives,Bootstrap Pareto,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.0004152444324334037
+1m,20261102,50,Three objectives,Point Pareto,4,3,0.16666666666666666,False,False,999,1000,Selected,Selected,4,True,0.3333333333333333,0.75,0.001818254777041839
+1m,20261102,50,Three objectives,Single gap,1,1,0.0,False,False,999,1000,Selected,Selected,1,True,0.0,1.0,0.006448918458700992
+1m,20261102,50,Three objectives,Single calibration,1,1,1.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.0008304888648668074
+1m,20261102,50,Three objectives,Single exposure,1,1,1.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.0008304888648668074
+1m,20261102,50,Three objectives,Top relevance,1,1,0.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.11722258619933756
+1m,20261102,50,Three objectives,Size-matched random,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.06001430344427722
+1m,20261102,50,Three objectives,Size-matched relevance,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.05861129309966878
+1m,20261102,100,Three objectives,Bootstrap Pareto,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.0004152444324334037
+1m,20261102,100,Three objectives,Point Pareto,4,3,0.16666666666666666,False,False,999,1000,Selected,Selected,4,True,0.3333333333333333,0.75,0.001818254777041839
+1m,20261102,100,Three objectives,Single gap,1,1,0.0,False,False,999,1000,Selected,Selected,1,True,0.0,1.0,0.006448918458700992
+1m,20261102,100,Three objectives,Single calibration,1,1,1.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.0008304888648668074
+1m,20261102,100,Three objectives,Single exposure,1,1,1.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.0008304888648668074
+1m,20261102,100,Three objectives,Top relevance,1,1,0.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.11722258619933756
+1m,20261102,100,Three objectives,Size-matched random,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.06001430344427722
+1m,20261102,100,Three objectives,Size-matched relevance,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.05861129309966878
+1m,20261102,100,Calibration + exposure,Bootstrap Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0008304888648668074
+1m,20261102,100,Calibration + exposure,Point Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0008304888648668074
+1m,20261102,100,Calibration + exposure,Single calibration,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0008304888648668074
+1m,20261102,100,Calibration + exposure,Single exposure,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0008304888648668074
+1m,20261102,100,Calibration + exposure,Top relevance,1,1,0.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.11722258619933756
+1m,20261102,100,Calibration + exposure,Size-matched random,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.0028060206892168704
+1m,20261102,100,Calibration + exposure,Size-matched relevance,1,1,0.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.11722258619933756
+1m,20261102,200,Three objectives,Bootstrap Pareto,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.0004152444324334037
+1m,20261102,200,Three objectives,Point Pareto,4,3,0.16666666666666666,False,False,999,1000,Selected,Selected,4,True,0.3333333333333333,0.75,0.001818254777041839
+1m,20261102,200,Three objectives,Single gap,1,1,0.0,False,False,999,1000,Selected,Selected,1,True,0.0,1.0,0.006448918458700992
+1m,20261102,200,Three objectives,Single calibration,1,1,1.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.0008304888648668074
+1m,20261102,200,Three objectives,Single exposure,1,1,1.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.0008304888648668074
+1m,20261102,200,Three objectives,Top relevance,1,1,0.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.11722258619933756
+1m,20261102,200,Three objectives,Size-matched random,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.06001430344427722
+1m,20261102,200,Three objectives,Size-matched relevance,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.05861129309966878
+1m,20261103,50,Three objectives,Bootstrap Pareto,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.0004152444324334037
+1m,20261103,50,Three objectives,Point Pareto,4,3,0.16666666666666666,False,False,999,1000,Selected,Selected,4,True,0.3333333333333333,0.75,0.001818254777041839
+1m,20261103,50,Three objectives,Single gap,1,1,0.0,False,False,999,1000,Selected,Selected,1,True,0.0,1.0,0.006448918458700992
+1m,20261103,50,Three objectives,Single calibration,1,1,1.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.0008304888648668074
+1m,20261103,50,Three objectives,Single exposure,1,1,1.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.0008304888648668074
+1m,20261103,50,Three objectives,Top relevance,1,1,0.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.11722258619933756
+1m,20261103,50,Three objectives,Size-matched random,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.06001430344427722
+1m,20261103,50,Three objectives,Size-matched relevance,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.05861129309966878
+1m,20261103,100,Three objectives,Bootstrap Pareto,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.0004152444324334037
+1m,20261103,100,Three objectives,Point Pareto,4,3,0.16666666666666666,False,False,999,1000,Selected,Selected,4,True,0.3333333333333333,0.75,0.001818254777041839
+1m,20261103,100,Three objectives,Single gap,1,1,0.0,False,False,999,1000,Selected,Selected,1,True,0.0,1.0,0.006448918458700992
+1m,20261103,100,Three objectives,Single calibration,1,1,1.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.0008304888648668074
+1m,20261103,100,Three objectives,Single exposure,1,1,1.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.0008304888648668074
+1m,20261103,100,Three objectives,Top relevance,1,1,0.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.11722258619933756
+1m,20261103,100,Three objectives,Size-matched random,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.06001430344427722
+1m,20261103,100,Three objectives,Size-matched relevance,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.05861129309966878
+1m,20261103,100,Calibration + exposure,Bootstrap Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0008304888648668074
+1m,20261103,100,Calibration + exposure,Point Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0008304888648668074
+1m,20261103,100,Calibration + exposure,Single calibration,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0008304888648668074
+1m,20261103,100,Calibration + exposure,Single exposure,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0008304888648668074
+1m,20261103,100,Calibration + exposure,Top relevance,1,1,0.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.11722258619933756
+1m,20261103,100,Calibration + exposure,Size-matched random,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.0028060206892168704
+1m,20261103,100,Calibration + exposure,Size-matched relevance,1,1,0.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.11722258619933756
+1m,20261103,200,Three objectives,Bootstrap Pareto,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.0004152444324334037
+1m,20261103,200,Three objectives,Point Pareto,4,3,0.16666666666666666,False,False,999,1000,Selected,Selected,4,True,0.3333333333333333,0.75,0.001818254777041839
+1m,20261103,200,Three objectives,Single gap,1,1,0.0,False,False,999,1000,Selected,Selected,1,True,0.0,1.0,0.006448918458700992
+1m,20261103,200,Three objectives,Single calibration,1,1,1.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.0008304888648668074
+1m,20261103,200,Three objectives,Single exposure,1,1,1.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.0008304888648668074
+1m,20261103,200,Three objectives,Top relevance,1,1,0.0,False,False,999,1000,Selected,Selected,1,True,0.3333333333333333,0.0,0.11722258619933756
+1m,20261103,200,Three objectives,Size-matched random,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.06001430344427722
+1m,20261103,200,Three objectives,Size-matched relevance,2,1,0.5,False,False,999,1000,Selected,Selected,2,True,0.3333333333333333,0.5,0.05861129309966878
+1m_userchron,20261101,100,Three objectives,Bootstrap Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.01608390178213248
+1m_userchron,20261101,100,Three objectives,Point Pareto,3,1,0.3333333333333333,False,False,1000,1000,Selected,Selected,3,True,1.0,0.6666666666666666,0.013650312557807909
+1m_userchron,20261101,100,Three objectives,Single gap,1,1,0.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.004338992597738622
+1m_userchron,20261101,100,Three objectives,Single calibration,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.01608390178213248
+1m_userchron,20261101,100,Three objectives,Single exposure,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.01608390178213248
+1m_userchron,20261101,100,Three objectives,Top relevance,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.0
+1m_userchron,20261101,100,Three objectives,Size-matched random,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.013650312557807909
+1m_userchron,20261101,100,Three objectives,Size-matched relevance,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.0
+1m_userchron,20261101,100,Calibration + exposure,Bootstrap Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.01608390178213248
+1m_userchron,20261101,100,Calibration + exposure,Point Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.01608390178213248
+1m_userchron,20261101,100,Calibration + exposure,Single calibration,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.01608390178213248
+1m_userchron,20261101,100,Calibration + exposure,Single exposure,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.01608390178213248
+1m_userchron,20261101,100,Calibration + exposure,Top relevance,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.0
+1m_userchron,20261101,100,Calibration + exposure,Size-matched random,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.013650312557807909
+1m_userchron,20261101,100,Calibration + exposure,Size-matched relevance,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.0
+1m_userchron,20261102,100,Three objectives,Bootstrap Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.01608390178213248
+1m_userchron,20261102,100,Three objectives,Point Pareto,3,1,0.3333333333333333,False,False,1000,1000,Selected,Selected,3,True,1.0,0.6666666666666666,0.013650312557807909
+1m_userchron,20261102,100,Three objectives,Single gap,1,1,0.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.004338992597738622
+1m_userchron,20261102,100,Three objectives,Single calibration,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.01608390178213248
+1m_userchron,20261102,100,Three objectives,Single exposure,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.01608390178213248
+1m_userchron,20261102,100,Three objectives,Top relevance,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.0
+1m_userchron,20261102,100,Three objectives,Size-matched random,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.013650312557807909
+1m_userchron,20261102,100,Three objectives,Size-matched relevance,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.0
+1m_userchron,20261102,100,Calibration + exposure,Bootstrap Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.01608390178213248
+1m_userchron,20261102,100,Calibration + exposure,Point Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.01608390178213248
+1m_userchron,20261102,100,Calibration + exposure,Single calibration,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.01608390178213248
+1m_userchron,20261102,100,Calibration + exposure,Single exposure,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.01608390178213248
+1m_userchron,20261102,100,Calibration + exposure,Top relevance,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.0
+1m_userchron,20261102,100,Calibration + exposure,Size-matched random,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.013650312557807909
+1m_userchron,20261102,100,Calibration + exposure,Size-matched relevance,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.0
+1m_userchron,20261103,100,Three objectives,Bootstrap Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.01608390178213248
+1m_userchron,20261103,100,Three objectives,Point Pareto,3,1,0.3333333333333333,False,False,1000,1000,Selected,Selected,3,True,1.0,0.6666666666666666,0.013650312557807909
+1m_userchron,20261103,100,Three objectives,Single gap,1,1,0.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.004338992597738622
+1m_userchron,20261103,100,Three objectives,Single calibration,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.01608390178213248
+1m_userchron,20261103,100,Three objectives,Single exposure,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.01608390178213248
+1m_userchron,20261103,100,Three objectives,Top relevance,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.0
+1m_userchron,20261103,100,Three objectives,Size-matched random,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.013650312557807909
+1m_userchron,20261103,100,Three objectives,Size-matched relevance,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.0
+1m_userchron,20261103,100,Calibration + exposure,Bootstrap Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.01608390178213248
+1m_userchron,20261103,100,Calibration + exposure,Point Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.01608390178213248
+1m_userchron,20261103,100,Calibration + exposure,Single calibration,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.01608390178213248
+1m_userchron,20261103,100,Calibration + exposure,Single exposure,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.01608390178213248
+1m_userchron,20261103,100,Calibration + exposure,Top relevance,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.0
+1m_userchron,20261103,100,Calibration + exposure,Size-matched random,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.013650312557807909
+1m_userchron,20261103,100,Calibration + exposure,Size-matched relevance,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,0.0,1.0,0.0
+lastfm_tag,20261101,100,Calibration + exposure,Bootstrap Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+lastfm_tag,20261101,100,Calibration + exposure,Point Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+lastfm_tag,20261101,100,Calibration + exposure,Single calibration,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+lastfm_tag,20261101,100,Calibration + exposure,Single exposure,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+lastfm_tag,20261101,100,Calibration + exposure,Top relevance,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+lastfm_tag,20261101,100,Calibration + exposure,Size-matched random,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+lastfm_tag,20261101,100,Calibration + exposure,Size-matched relevance,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+lastfm_tag,20261102,100,Calibration + exposure,Bootstrap Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+lastfm_tag,20261102,100,Calibration + exposure,Point Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+lastfm_tag,20261102,100,Calibration + exposure,Single calibration,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+lastfm_tag,20261102,100,Calibration + exposure,Single exposure,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+lastfm_tag,20261102,100,Calibration + exposure,Top relevance,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+lastfm_tag,20261102,100,Calibration + exposure,Size-matched random,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+lastfm_tag,20261102,100,Calibration + exposure,Size-matched relevance,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+lastfm_tag,20261103,100,Calibration + exposure,Bootstrap Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+lastfm_tag,20261103,100,Calibration + exposure,Point Pareto,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+lastfm_tag,20261103,100,Calibration + exposure,Single calibration,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+lastfm_tag,20261103,100,Calibration + exposure,Single exposure,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+lastfm_tag,20261103,100,Calibration + exposure,Top relevance,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+lastfm_tag,20261103,100,Calibration + exposure,Size-matched random,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0
+lastfm_tag,20261103,100,Calibration + exposure,Size-matched relevance,1,1,1.0,False,False,1000,1000,Selected,Selected,1,True,1.0,0.0,0.0

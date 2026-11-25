@@ -1,0 +1,3 @@
+# Preserve exact bytes for the archived run and notebook checksum.
+/results/** -text
+/notebooks/*.ipynb -text

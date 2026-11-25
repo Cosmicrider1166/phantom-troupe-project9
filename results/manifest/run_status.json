@@ -1,0 +1,19 @@
+{
+  "completed": true,
+  "mode": "full",
+  "pdf_figures": 10,
+  "csv_exhibits": 10,
+  "elapsed_seconds": 404.65233307200003,
+  "protocols": [
+    "100k",
+    "1m",
+    "1m_userchron",
+    "lastfm_tag"
+  ],
+  "top10_depth_comparison_rows": 288,
+  "top10_depth_summary_rows": 8,
+  "top10_depth_outputs": [
+    "diagnostics/top10_depth_comparison.csv",
+    "diagnostics/top10_depth_summary.csv"
+  ]
+}

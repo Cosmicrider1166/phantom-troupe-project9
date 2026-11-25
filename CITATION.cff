@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Cite the GitHub release or commit you used. The earlier Zenodo DOI identifies version 1.0.0."
+title: "Selecting Recommender Systems When Fairness Rankings Are Unstable: Revised Project 9"
+type: software
+version: "1.1.0"
+authors:
+  - family-names: "Panneer Jesuraja"
+    given-names: "Tony Nicholas"
+  - family-names: "Kumar"
+    given-names: "Parvesh"
+repository-code: "https://github.com/Cosmicrider1166/phantom-troupe-project9"
+license: MIT

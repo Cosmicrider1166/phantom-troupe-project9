@@ -1,0 +1,8 @@
+{
+  "overall_alpha": 0.05,
+  "families": 48,
+  "per_family_alpha": 0.0010416666666666667,
+  "allocation": "Half to coordinate envelopes for utility gaps and Gini, half to direct paired JSD contrasts",
+  "target": "Fixed-model eligible-user means under independent-user sampling. No retraining uncertainty.",
+  "state": "Exploratory revision after prior result inspection"
+}

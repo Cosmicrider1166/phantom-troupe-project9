@@ -1,0 +1,85 @@
+protocol,seed,depth,window,grouping,smallest_cell,all_groups_observed,complete_draw_fraction
+100k,20261101,50,val,Gender + age,2,True,0.768
+100k,20261101,50,val,Gender only,14,True,1.0
+100k,20261101,50,test,Gender + age,0,False,0.0
+100k,20261101,50,test,Gender only,7,True,1.0
+100k,20261101,100,val,Gender + age,2,True,0.768
+100k,20261101,100,val,Gender only,14,True,1.0
+100k,20261101,100,test,Gender + age,0,False,0.0
+100k,20261101,100,test,Gender only,7,True,1.0
+100k,20261101,200,val,Gender + age,2,True,0.768
+100k,20261101,200,val,Gender only,14,True,1.0
+100k,20261101,200,test,Gender + age,0,False,0.0
+100k,20261101,200,test,Gender only,7,True,1.0
+100k,20261102,50,val,Gender + age,2,True,0.768
+100k,20261102,50,val,Gender only,14,True,1.0
+100k,20261102,50,test,Gender + age,0,False,0.0
+100k,20261102,50,test,Gender only,7,True,1.0
+100k,20261102,100,val,Gender + age,2,True,0.768
+100k,20261102,100,val,Gender only,14,True,1.0
+100k,20261102,100,test,Gender + age,0,False,0.0
+100k,20261102,100,test,Gender only,7,True,1.0
+100k,20261102,200,val,Gender + age,2,True,0.768
+100k,20261102,200,val,Gender only,14,True,1.0
+100k,20261102,200,test,Gender + age,0,False,0.0
+100k,20261102,200,test,Gender only,7,True,1.0
+100k,20261103,50,val,Gender + age,2,True,0.768
+100k,20261103,50,val,Gender only,14,True,1.0
+100k,20261103,50,test,Gender + age,0,False,0.0
+100k,20261103,50,test,Gender only,7,True,1.0
+100k,20261103,100,val,Gender + age,2,True,0.768
+100k,20261103,100,val,Gender only,14,True,1.0
+100k,20261103,100,test,Gender + age,0,False,0.0
+100k,20261103,100,test,Gender only,7,True,1.0
+100k,20261103,200,val,Gender + age,2,True,0.768
+100k,20261103,200,val,Gender only,14,True,1.0
+100k,20261103,200,test,Gender + age,0,False,0.0
+100k,20261103,200,test,Gender only,7,True,1.0
+1m,20261101,50,val,Gender + age,7,True,1.0
+1m,20261101,50,val,Gender only,38,True,1.0
+1m,20261101,50,test,Gender + age,16,True,1.0
+1m,20261101,50,test,Gender only,86,True,1.0
+1m,20261101,100,val,Gender + age,7,True,1.0
+1m,20261101,100,val,Gender only,38,True,1.0
+1m,20261101,100,test,Gender + age,16,True,1.0
+1m,20261101,100,test,Gender only,86,True,1.0
+1m,20261101,200,val,Gender + age,7,True,1.0
+1m,20261101,200,val,Gender only,38,True,1.0
+1m,20261101,200,test,Gender + age,16,True,1.0
+1m,20261101,200,test,Gender only,86,True,1.0
+1m,20261102,50,val,Gender + age,7,True,1.0
+1m,20261102,50,val,Gender only,38,True,1.0
+1m,20261102,50,test,Gender + age,16,True,1.0
+1m,20261102,50,test,Gender only,86,True,1.0
+1m,20261102,100,val,Gender + age,7,True,1.0
+1m,20261102,100,val,Gender only,38,True,1.0
+1m,20261102,100,test,Gender + age,16,True,1.0
+1m,20261102,100,test,Gender only,86,True,1.0
+1m,20261102,200,val,Gender + age,7,True,1.0
+1m,20261102,200,val,Gender only,38,True,1.0
+1m,20261102,200,test,Gender + age,16,True,1.0
+1m,20261102,200,test,Gender only,86,True,1.0
+1m,20261103,50,val,Gender + age,7,True,1.0
+1m,20261103,50,val,Gender only,38,True,1.0
+1m,20261103,50,test,Gender + age,16,True,1.0
+1m,20261103,50,test,Gender only,86,True,1.0
+1m,20261103,100,val,Gender + age,7,True,1.0
+1m,20261103,100,val,Gender only,38,True,1.0
+1m,20261103,100,test,Gender + age,16,True,1.0
+1m,20261103,100,test,Gender only,86,True,1.0
+1m,20261103,200,val,Gender + age,7,True,1.0
+1m,20261103,200,val,Gender only,38,True,1.0
+1m,20261103,200,test,Gender + age,16,True,1.0
+1m,20261103,200,test,Gender only,86,True,1.0
+1m_userchron,20261101,100,val,Gender + age,161,True,1.0
+1m_userchron,20261101,100,val,Gender only,1317,True,1.0
+1m_userchron,20261101,100,test,Gender + age,162,True,1.0
+1m_userchron,20261101,100,test,Gender only,1294,True,1.0
+1m_userchron,20261102,100,val,Gender + age,161,True,1.0
+1m_userchron,20261102,100,val,Gender only,1317,True,1.0
+1m_userchron,20261102,100,test,Gender + age,162,True,1.0
+1m_userchron,20261102,100,test,Gender only,1294,True,1.0
+1m_userchron,20261103,100,val,Gender + age,161,True,1.0
+1m_userchron,20261103,100,val,Gender only,1317,True,1.0
+1m_userchron,20261103,100,test,Gender + age,162,True,1.0
+1m_userchron,20261103,100,test,Gender only,1294,True,1.0
